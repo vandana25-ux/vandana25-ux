@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vandana25-ux
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning diffrent lanugages
+- 🌱 I’m currently learning different lanugages
   
 
 <!---
